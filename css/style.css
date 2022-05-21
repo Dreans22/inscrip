@@ -3,6 +3,10 @@
     padding-left: 8px;
     
 }
+body{
+    background-color: 
+    #Dac9c9;
+}
 .navbar-brand{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -11,6 +15,7 @@
 
 .container{
     padding: 25px;
+    margin: 10px;
     
     
 }
@@ -26,8 +31,16 @@
     margin:auto;
 }
 
+.informacion{
+    padding: 35px;
+}
+
 .containerc{
     padding-top: 25px;
     
+}
+
+footer{
+    height: 250px;
 }
 
