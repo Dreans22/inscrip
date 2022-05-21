@@ -41,6 +41,13 @@ body{
 }
 
 footer{
-    height: 250px;
+    color: white;
+    padding: 15px;
+    background-color: black;
+    text-align: center;
+}
+
+footer p{
+    font-size: 10px;
 }
 
