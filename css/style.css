@@ -1,0 +1,33 @@
+.logotipo{
+    width: 50px;
+    padding-left: 8px;
+    
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+
+.container{
+    padding: 25px;
+    
+    
+}
+
+.card{
+    display: block;
+    margin: auto;
+    padding: 15px;
+}
+
+.calendario{
+    display:block;
+    margin:auto;
+}
+
+.containerc{
+    padding-top: 25px;
+    
+}
+
