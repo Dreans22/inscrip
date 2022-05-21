@@ -29,6 +29,7 @@ body{
 .calendario{
     display:block;
     margin:auto;
+    
 }
 
 .informacion{
@@ -36,11 +37,12 @@ body{
 }
 
 .containerc{
-    padding-top: 25px;
+    padding-top: 35px;
     
 }
 
 footer{
+    margin-top: 12px;
     color: white;
     padding: 15px;
     background-color: black;
